@@ -1,0 +1,50 @@
+.everybody-hero {
+  background-image: url('https://www.apple.com/v/home/he/images/overview/hero/hero__x15fcac9fw2q_large.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+.pt-10 {
+  padding-top:300px;
+  padding-bottom: 300px;
+}
+
+h2 {
+    font-size: 72px;
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: -0.012em;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-size: 32px;
+    line-height: 1.125;
+    font-weight: 600;
+    letter-spacing: .004em;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    max-width: 518px;
+}
+
+.iPhone-13 {
+  background-image: url('https://cdn.discordapp.com/attachments/879796972301738044/889956081005113354/iPhone13Pro.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+
+.center {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  bottom: 27%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
